@@ -18,17 +18,13 @@ public class ProyectoCalculadoraN {
         int resultado = sumar(5, 3);
         System.out.println("5 + 3 = " + resultado);
         
-        // Ejemplo de multiplicación
-        int multiplicacion = multiplicar(5, 3);
-        System.out.println("5 * 3 = " + multiplicacion);
+       
     }
     
     public static int sumar(int a, int b) {
         return a + b;
     }
     
-     public static int multiplicar(int a, int b) {
-        return a * b;
-    }
+    
     }
 
